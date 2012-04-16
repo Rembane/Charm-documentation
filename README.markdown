@@ -4,7 +4,7 @@ Repository för dokumentationen kring Charms IT-system o.dyl.
 
 ## Översikt system
 
-![Systemöversiktsbild](https://raw.github.com/Rembane/Charm-documentation/master/struktur_internsystem.svg)
+![Systemöversiktsbild](https://github.com/Rembane/Charm-documentation/raw/master/struktur_internsystem.png)
 
 ## Scribblings
 [Länk till Markdown-syntax](http://daringfireball.net/projects/markdown/syntax "Markdownsyntax")
